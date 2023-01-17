@@ -5,15 +5,15 @@
 
 ## Introduction
 ### Overfitting and Underfitting
-
-
+![My Image](./image/overfit.png)
+![My Image](./image/underfit.png)
 
 ### Linear and Non-Linear Regression
-
+![My Image](./image/regression.png)
 
 
 ### Mean Square Error (MSE)
-
+![My Image](./image/mse.png)
 
 ## Design
 * ### **Data**
@@ -37,10 +37,13 @@
 
 
 ## Implementation
-[Detailed Steps]()
+[Detailed Steps](https://github.com/SharonCao0920/MachineLearning/blob/main/ModelSelection/UseOverfittingToEvaluateDifferentModels/DetailedSteps.pdf)
 
-Model 1:	y = 0.238803 + 0.918775x
-Model 2: 	y = 1.349341 + 0.151809 x^2
+**Model 1:**	
+y = 0.238803 + 0.918775x
+
+**Model 2:** 	
+y = 1.349341 + 0.151809 x^2
 
 ## Test
 ***Codes are uploaded**
@@ -48,7 +51,7 @@ Model 2: 	y = 1.349341 + 0.151809 x^2
 
 ## Enhancement Ideas
 Plot all in one graph!
-
+![My Image](./image/graph.png)
 
 ## Conclusion
 With the evaluation using overfitting concept, Linear Regression model is slightly better than the Non-Linear Regression model.
