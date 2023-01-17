@@ -40,13 +40,15 @@
 [Detailed Steps](https://github.com/SharonCao0920/MachineLearning/blob/main/ModelSelection/UseOverfittingToEvaluateDifferentModels/DetailedSteps.pdf)
 
 **Model 1:**	
+
 y = 0.238803 + 0.918775x
 
 **Model 2:** 	
+
 y = 1.349341 + 0.151809 x^2
 
 ## Test
-***Codes are uploaded**
+[Codes are uploaded](https://github.com/SharonCao0920/MachineLearning/blob/main/ModelSelection/UseOverfittingToEvaluateDifferentModels/CS550_ML_Model_Selection.ipynb)
 
 
 ## Enhancement Ideas
