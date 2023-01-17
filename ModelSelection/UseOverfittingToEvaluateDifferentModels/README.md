@@ -53,6 +53,7 @@ y = 1.349341 + 0.151809 x^2
 
 ## Enhancement Ideas
 Plot all in one graph!
+
 ![My Image](./image/graph.png)
 
 ## Conclusion
