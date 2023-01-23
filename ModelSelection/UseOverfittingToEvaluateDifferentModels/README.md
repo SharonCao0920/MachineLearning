@@ -18,7 +18,7 @@
 ## Design
 * ### **Data**
   50% for training phase, 25% for validation phase and 25% for testing phase.
-
+![My Image](./image/data.png)
 
 * ### **Get Models -- Training Phase**
   Using data for training set, get two models:
@@ -39,6 +39,8 @@
 ## Implementation
 [Detailed Steps](https://github.com/SharonCao0920/MachineLearning/blob/main/ModelSelection/UseOverfittingToEvaluateDifferentModels/DetailedSteps.pdf)
 
+![My Image](./image/equations.png)
+
 **Model 1:**	
 
 y = 0.238803 + 0.918775x
@@ -47,9 +49,12 @@ y = 0.238803 + 0.918775x
 
 y = 1.349341 + 0.151809 x^2
 
+![My Image](./image/select.png)
+
 ## Test
 [Codes are uploaded](https://github.com/SharonCao0920/MachineLearning/blob/main/ModelSelection/UseOverfittingToEvaluateDifferentModels/CS550_ML_Model_Selection.ipynb)
 
+![My Image](./image/result.png)
 
 ## Enhancement Ideas
 Plot all in one graph!
