@@ -41,6 +41,8 @@
 
 ![My Image](./image/equations.png)
 
+### Equations
+
 **Model 1:**	
 
 y = 0.238803 + 0.918775x
@@ -48,6 +50,8 @@ y = 0.238803 + 0.918775x
 **Model 2:** 	
 
 y = 1.349341 + 0.151809 x^2
+
+### Model Selection
 
 ![My Image](./image/select.png)
 
