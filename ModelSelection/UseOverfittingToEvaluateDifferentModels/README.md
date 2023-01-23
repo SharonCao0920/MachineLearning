@@ -53,6 +53,25 @@ y = 1.349341 + 0.151809 x^2
 
 ## Enhancement Ideas
 Plot all in one graph!
+```
+# Enhansement
+# Plot the dots and graph the models
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# plot the data points
+plt.scatter(x, y)
+plt.scatter(x_v, y_v, color='aqua')
+
+# plot the regression line
+plt.plot( x, model1.predict(x), color='red')
+
+x_fit = np.linspace(0, 6, 100)
+y_fit = model2.predict(poly.fit_transform(x_fit.reshape(-1, 1)))
+plt.plot(x_fit, y_fit, '-r', color='limegreen')
+
+plt.show()
+```
 
 ![My Image](./image/graph.png)
 
