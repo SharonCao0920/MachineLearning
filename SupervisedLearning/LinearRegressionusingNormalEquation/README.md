@@ -78,7 +78,7 @@ y = y2.reshape(len(y2), 1)
 ```
 
 ## Test
-[Testing Result can be found in details in File](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/LinearRegressionusingNormalEquation/CS550_Week2_HW2_Yixin_Cao_19536.ipynb)
+[Testing Result can be found in details in File](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/LinearRegressionusingNormalEquation/MLLinearRegressionNormalEquation.ipynb)
 
 ## Conclusion
 Python is very capable for training large dataset with its libraries. And it is easy to understand and use in practice. 
