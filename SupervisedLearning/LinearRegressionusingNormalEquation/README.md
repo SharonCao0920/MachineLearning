@@ -3,6 +3,8 @@
 
 ## Introduction 
 ### Machine Learning Types
+![My Image](./image/ML.png)
+
 ### Supervised Learning
 **A. Classification:**
 It is a Supervised Learning task where output is having defined labels(discrete value). The goal here is to predict discrete values belonging to a particular class and evaluate them on the basis of accuracy. 
@@ -20,9 +22,13 @@ It is a Supervised Learning task where output is having continuous value. The go
 * Random Forest
 
 ### Linear Regression with Normal Equation
+![My Image](./image/NE.png)
 
 ## Design
+![My Image](./image/design.png)
+
 ## Implementation
+
 ## Test
 ## Conclusion
 ## Enhancement
