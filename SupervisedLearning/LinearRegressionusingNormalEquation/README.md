@@ -1,5 +1,6 @@
 # Linear Regression using Normal Equation
 [Geting Started with Colab](https://github.com/SharonCao0920/MachineLearning/tree/main/StartWithColab)
+
 [Google Slides for This Project](https://docs.google.com/presentation/d/1kzSLvFwPWFy-T2dibN-3C-sF5qfO-mwLGCgpzsi9uZs/edit?usp=sharing)
 
 ## Introduction 
