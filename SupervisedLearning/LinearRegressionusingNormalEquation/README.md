@@ -22,7 +22,13 @@ It is a Supervised Learning task where output is having continuous value. The go
 * Random Forest
 
 ### Linear Regression with Normal Equation
+Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting.
+
 ![My Image](./image/NE.png)
+![My Image](./image/NE1.png)
+![My Image](./image/NE2.png)
+![My Image](./image/NE3.png)
+![My Image](./image/NE4.png)
 
 ## Design
 ![My Image](./image/design.png)
