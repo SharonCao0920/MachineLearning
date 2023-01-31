@@ -90,10 +90,10 @@ To verify the Normal Equation, we can also use for example the sklearn library t
 
 
 ## References
-https://www.geeksforgeeks.org/ml-types-learning-supervised-learning/ 
-https://www.geeksforgeeks.org/ml-types-learning-part-2/?ref=lbp 
-https://www.geeksforgeeks.org/ml-semi-supervised-learning/ 
-https://www.geeksforgeeks.org/what-is-reinforcement-learning/ 
-https://www.geeksforgeeks.org/ml-linear-regression/ 
-https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/
+* https://www.geeksforgeeks.org/ml-types-learning-supervised-learning/ 
+* https://www.geeksforgeeks.org/ml-types-learning-part-2/?ref=lbp 
+* https://www.geeksforgeeks.org/ml-semi-supervised-learning/ 
+* https://www.geeksforgeeks.org/what-is-reinforcement-learning/ 
+* https://www.geeksforgeeks.org/ml-linear-regression/ 
+* https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/
 
