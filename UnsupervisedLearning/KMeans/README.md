@@ -1,4 +1,5 @@
 # Python for K-Means
+[Detail](https://github.com/SharonCao0920/MachineLearning/blob/main/UnsupervisedLearning/KMeans/Kmeans.ipynb)
 
 ### Data
 
