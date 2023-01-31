@@ -36,7 +36,7 @@ Linear Regression is a machine learning algorithm based on supervised learning. 
 ![My Image](./image/design.png)
 
 ## Implementation
-Code Modified
+Code Modified [Details](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/LinearRegressionusingNormalEquation/Code_Modify_Detail.pdf)
 ```
 import numpy as np
 import pandas as pd
