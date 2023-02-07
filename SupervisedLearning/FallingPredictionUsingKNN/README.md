@@ -23,6 +23,7 @@ Basic Assumption:
 
 ## Determine the Value of K
 n = 8
+
 K = sqrt(8) = 2.828427 = 3
 
 ## Mannually Calcualte the Prediction
