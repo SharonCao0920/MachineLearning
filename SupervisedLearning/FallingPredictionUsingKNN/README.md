@@ -32,6 +32,10 @@ Euclidean Distance = SQRT((xApred - Ax)^2+(yApred - Ay)^2+(zApred - Az)^2+(xGpre
 
 <img width="662" alt="Screenshot_20230206_062232" src="https://user-images.githubusercontent.com/54694766/217131703-ab9ac675-b5fd-4ad4-89ce-e9e56ee4b7b0.png">
 
+The highlighted data sets are ones selected for the prediction which are closest to the predict data set. All three samples selected are in the Fall(+) group .
+
+So with the predict dataset provided, it is predicted to fall(+).
+
 
 ## Pythong Program to Predict
 ### [Full Code](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/FallingPredictionUsingKNN/CS550_Week3_HW1_KNN.ipynb)
