@@ -34,7 +34,7 @@ Euclidean Distance = SQRT((Apred - Ax)^2+(Apred - Ay)^2+(Apred - Az)^2+(Gpred - 
 
 
 ## Pythong Program to Predict
-## [Full Code](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/FallingPredictionUsingKNN/CS550_Week3_HW1_KNN.ipynb)
+### [Full Code](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/FallingPredictionUsingKNN/CS550_Week3_HW1_KNN.ipynb)
 ### KNN Oringial code
 
 ```
