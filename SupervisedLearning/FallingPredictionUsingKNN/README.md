@@ -4,8 +4,8 @@
 ## About the Project
 
 ### Description
-This project is to predicet the fall using KNN algorithm with data collected from two sensors. 
-Data sent from Gyroscope senso and Accelerometer sensor can be used to categorize any motion.
+This project is to predict the fall using KNN algorithm with data collected from two sensors. 
+Data sent from Gyroscope sensor and Accelerometer sensor can be used to categorize any motion.
 
 * 3 numbers from Accelerometer sensor
 * 3 numbers from Gyroscope sensor
