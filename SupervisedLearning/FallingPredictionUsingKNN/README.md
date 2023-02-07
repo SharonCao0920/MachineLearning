@@ -93,4 +93,5 @@ print("Predicted result is ", model.predict([(7, 6, 5, 5, 6, 7)]))
 
 ## Compare the Result
 All results predicted for faling(+).
+
 [Full Process](https://github.com/SharonCao0920/MachineLearning/blob/main/SupervisedLearning/FallingPredictionUsingKNN/CS550_Week3HW1_Yixin_Cao_19536.pdf)
