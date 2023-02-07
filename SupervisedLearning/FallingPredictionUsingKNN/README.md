@@ -28,7 +28,7 @@ K = sqrt(8) = 2.828427 = 3
 
 ## Mannually Calcualte the Prediction
 
-Euclidean Distance = SQRT((Apred - Ax)^2+(Apred - Ay)^2+(Apred - Az)^2+(Gpred - Gx)^2+(Gpred - Gy)^2+(Gpred - Gz)^2)
+Euclidean Distance = SQRT((xApred - Ax)^2+(yApred - Ay)^2+(zApred - Az)^2+(xGpred - Gx)^2+(yGpred - Gy)^2+(zGpred - Gz)^2)
 
 <img width="662" alt="Screenshot_20230206_062232" src="https://user-images.githubusercontent.com/54694766/217131703-ab9ac675-b5fd-4ad4-89ce-e9e56ee4b7b0.png">
 
