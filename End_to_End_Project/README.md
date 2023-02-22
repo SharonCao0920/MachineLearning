@@ -18,18 +18,18 @@
 ### 2. Get the Data
 
 **Create the Workspace**
-
-      * Set up Tensorflow VM 
+  
+  * Set up Tensorflow VM 
       
 **Download the Data** 
 
 **Take a Quick Look at the Data Structure - Mssing Data & Heavy tail** 
 
-      * Histogram - review 
+   * Histogram - review 
       
 **Create a Test Set** 
 
-      * Training, Validation, Test - review
+   * Training, Validation, Test - review
       
 
 ### 3. Discover and Visualize the Data to Gain Insights
