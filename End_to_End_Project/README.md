@@ -66,11 +66,11 @@
 
 **Better Evaluation Using Cross-Validation - Paramter vs. Hyperparamter**
 
-     * Use Overfitting To Evaluate Different Models
+  * Use Overfitting To Evaluate Different Models
       
-     * KNN Cross-Validation - including K-Fold cross-validation
+  * KNN Cross-Validation - including K-Fold cross-validation
       
-     * Cross-Validation — Introduction
+  * Cross-Validation — Introduction
       
 
 ### 6. Fine-Tune Your Model
@@ -79,11 +79,11 @@
 
   a. Grid Search vs. Random Search
     
-      * Grid Search
+    * Grid Search
         
-          -> Confusion Matrix
+      -> Confusion Matrix
             
-      * Randomized Search
+    * Randomized Search
         
   b. Ensemble Methods
     
