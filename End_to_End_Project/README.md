@@ -6,6 +6,7 @@
 ### 1. Look at the Big Picture
 
 **Frame the Problem**
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/54694766/220536046-04987642-1a9f-4615-829c-ab3f0ade5b28.png">
 
 **Select a Performance Measure**
 
