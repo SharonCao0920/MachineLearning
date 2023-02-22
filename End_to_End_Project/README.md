@@ -93,4 +93,4 @@
 
 ### 7. Launch Monitor and Maintain Your System
 
-### [The full execution can be found in PDF file linked to this text.]()
+### [The full execution can be found in PDF file linked to this text.](https://github.com/SharonCao0920/MachineLearning/blob/main/End_to_End_Project/02_end_to_end_machine_learning_project.pdf)
