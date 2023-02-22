@@ -78,12 +78,9 @@
 **Find hyperparameter values**
 
   a. Grid Search vs. Random Search
-    
-    * Grid Search
-        
+  * Grid Search
       -> Confusion Matrix
-            
-    * Randomized Search
+  * Randomized Search
         
   b. Ensemble Methods
     
