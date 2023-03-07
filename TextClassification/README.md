@@ -102,7 +102,7 @@ More implementations in the future under consideration:
 * Convert the project to programs
 * Training and testing with more complex data
 
-##References
+## References
 
-https://hc.labnet.sfbu.edu/~henry/sfbu/course/mllib/naive_bayes/slide/text_classifier.html 
-https://hc.labnet.sfbu.edu/~henry/sfbu/course/mllib/naive_bayes/slide/text_classification_2_naive_bayes.html 
+* https://hc.labnet.sfbu.edu/~henry/sfbu/course/mllib/naive_bayes/slide/text_classifier.html 
+* https://hc.labnet.sfbu.edu/~henry/sfbu/course/mllib/naive_bayes/slide/text_classification_2_naive_bayes.html 
