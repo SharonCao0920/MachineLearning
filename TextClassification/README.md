@@ -15,12 +15,12 @@ This project is to use the text classifier to determine who is the real author o
 
 ### Text Classification: Application 
 
-*Assigning subject categories, topics, or genres
-*Spam detection
-*Authorship identification
-*Age/gender identification
-*The identification of the language used in a document
-*Sentiment analysis (positive or negative movie review)
+* Assigning subject categories, topics, or genres
+* Spam detection
+* Authorship identification
+* Age/gender identification
+* The identification of the language used in a document
+* Sentiment analysis (positive or negative movie review)
 
 ### Text Classification: Bayes’ Rule 
 
@@ -61,13 +61,13 @@ This project is to use the text classifier to determine who is the real author o
 
 **Prior**
 
-	P(C) = Nc / N 
+* P(C) = Nc / N 
 = Number of class C / Total number of classes = 3/7
 
-	P(W) = Nw / N 
+* P(W) = Nw / N 
 = Number of class W / Total number of classes = 2/7
 
-	P(F) = Nf / N 
+* P(F) = Nf / N 
 = Number of class F / Total number of classes = 2/7
 
 **Conditional Probabilities:**
@@ -96,8 +96,8 @@ This project is to use the text classifier to determine who is the real author o
 
 More implementations in the future under consideration:
 
-*Convert the project to programs
-*Training and testing with more complex data
+* Convert the project to programs
+* Training and testing with more complex data
 
 ##References
 
