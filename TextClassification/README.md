@@ -72,16 +72,15 @@ This project is to use the text classifier to determine who is the real author o
 
 **Conditional Probabilities:**
 
-<img width="480" alt="Screenshot 2023-03-06 230252" src="https://user-images.githubusercontent.com/54694766/223356743-17c435ec-fe8b-41df-b6c0-592e3fdd06bf.png">
-
-<img width="474" alt="Screenshot 2023-03-06 230318" src="https://user-images.githubusercontent.com/54694766/223356748-d1d41bde-889a-4d98-9abf-f297efe30a04.png">
-
 <img width="487" alt="Screenshot 2023-03-06 225925" src="https://user-images.githubusercontent.com/54694766/223356749-466a1612-d032-4c79-91d1-eee814a24a77.png">
 
 <img width="474" alt="Screenshot 2023-03-06 230044" src="https://user-images.githubusercontent.com/54694766/223356754-95ebf38c-7d7b-4afc-ba34-8bbd963b70df.png">
 
 <img width="476" alt="Screenshot 2023-03-06 230209" src="https://user-images.githubusercontent.com/54694766/223356755-667a1cd4-9f77-4975-abc1-d056bc1dfa79.png">
 
+<img width="480" alt="Screenshot 2023-03-06 230252" src="https://user-images.githubusercontent.com/54694766/223356743-17c435ec-fe8b-41df-b6c0-592e3fdd06bf.png">
+
+<img width="474" alt="Screenshot 2023-03-06 230318" src="https://user-images.githubusercontent.com/54694766/223356748-d1d41bde-889a-4d98-9abf-f297efe30a04.png">
 
 ## Test
 
