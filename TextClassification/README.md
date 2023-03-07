@@ -1,5 +1,5 @@
 # Project: Who is the real author of Hamlet?
-[Google Slide](https://hc.labnet.sfbu.edu/~henry/sfbu/course/mllib/naive_bayes/slide/exercise_naive_bayes.html)
+[Google Slide](https://docs.google.com/presentation/d/17hUJS7Ol1NS-SK69DYx49FW-a0WB1VB6hTqjn4mcgqQ/edit?usp=sharing)
 
 ## Introduction
 
