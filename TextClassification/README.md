@@ -84,6 +84,9 @@ This project is to use the text classifier to determine who is the real author o
 
 ## Test
 
+All Claculated data:
+<img width="617" alt="Screenshot 2023-03-06 232203" src="https://user-images.githubusercontent.com/54694766/223357598-df537eeb-7db7-4ba3-8ab8-41c8450eb457.png">
+
 <img width="462" alt="Screenshot 2023-03-06 232235" src="https://user-images.githubusercontent.com/54694766/223356816-6ea2a6a0-9eaf-4266-9b24-38e6f19207df.png">
 
 
